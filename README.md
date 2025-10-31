@@ -7,9 +7,9 @@
 
 ## 🌟 À propos de moi
 
-> Salut ! Je suis **[Ton Prénom et Nomad]**, [ta description rapide — ex : un(e) étudiant(e) passionné(e) par le développement web et les technologies modernes].
+> Salut ! Je suis **[wilfried olivier]**, [ta description rapide — ex : un(e) étudiant(e) passionné(e) par le développement web et les technologies modernes].
 
-> 🎓 Je poursuis actuellement un **[Diplôme ou parcours]** à **[Université ou école]**.
+> 🎓 Je poursuis actuellement un **[DUT]** à **[IUT DE DOUALAs]**.
 
 > Mon objectif est de **[décris ton but principal — ex : devenir développeur fullstack, ingénieur DevOps, ou Data Analyst reconnu(e)]**.
 
@@ -43,4 +43,3 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-g

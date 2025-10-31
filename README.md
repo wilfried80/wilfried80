@@ -7,9 +7,9 @@
 
 ## 🌟 À propos de moi
 
-> Salut ! Je suis **[wilfried oilivier]**, [ta description rapide — ex : un(e) étudiant(e) passionné(e) par le développement web et les technologies modernes].
+> Salut ! Je suis **[Ton Prénom et Nomad]**, [ta description rapide — ex : un(e) étudiant(e) passionné(e) par le développement web et les technologies modernes].
 
-> 🎓 Je poursuis actuellement un **[Dut]** à **[iut de douala ]**.
+> 🎓 Je poursuis actuellement un **[Diplôme ou parcours]** à **[Université ou école]**.
 
 > Mon objectif est de **[décris ton but principal — ex : devenir développeur fullstack, ingénieur DevOps, ou Data Analyst reconnu(e)]**.
 
@@ -32,3 +32,15 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
+
+---
+
+### 🔹 Outils & Environnements
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/windows-%23FCC624.svg?style=for-the-badge&logo=windows&logoColor=black)
+![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+g
